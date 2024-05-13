@@ -5,3 +5,4 @@
 
 [전체 코드]  
 https://github.com/Seojiii/c4_car_project/blob/main/C4_Car_project.ipynb
+
